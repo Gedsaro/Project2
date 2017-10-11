@@ -4,3 +4,5 @@ https://stackoverflow.com/questions/5999180/sockets-send-strings-from-java-to-c
 https://www.codeproject.com/Articles/1415/Introduction-to-TCP-client-server-in-C
 https://www.codeproject.com/Articles/13487/The-Simplest-TcpServer
 http://www.codingvision.net/networking/c-simple-tcp-server
+https://stackoverflow.com/questions/29265430/socket-communication-between-java-and-c-sharp-application
+^The one right above looks like it could be particularly useful!
