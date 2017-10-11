@@ -1,0 +1,6 @@
+https://stackoverflow.com/questions/2405182/httputility-does-not-exist-in-the-current-context
+https://docs.microsoft.com/en-us/dotnet/framework/network-programming/synchronous-client-socket-example
+https://stackoverflow.com/questions/5999180/sockets-send-strings-from-java-to-c
+https://www.codeproject.com/Articles/1415/Introduction-to-TCP-client-server-in-C
+https://www.codeproject.com/Articles/13487/The-Simplest-TcpServer
+http://www.codingvision.net/networking/c-simple-tcp-server
