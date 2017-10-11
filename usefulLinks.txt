@@ -6,3 +6,5 @@ https://www.codeproject.com/Articles/13487/The-Simplest-TcpServer
 http://www.codingvision.net/networking/c-simple-tcp-server
 https://stackoverflow.com/questions/29265430/socket-communication-between-java-and-c-sharp-application
 ^The one right above looks like it could be particularly useful!
+
+Also for ECON 275 study, I got to highlighting parts of benefit cost analysis, specifically ISSUSE in benefit estimation.
