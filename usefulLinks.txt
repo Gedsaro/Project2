@@ -8,3 +8,16 @@ https://stackoverflow.com/questions/29265430/socket-communication-between-java-a
 ^The one right above looks like it could be particularly useful!
 
 Also for ECON 275 study, I got to highlighting parts of benefit cost analysis, specifically ISSUSE in benefit estimation.
+
+https://stackoverflow.com/questions/22675704/c-sharp-client-server-using-streamreader-writer
+^told me about using writer.flush, or autoflush, not sure why this makes it work though.
+
+https://stackoverflow.com/questions/10182751/server-client-send-receive-simple-text
+^a simple text server example, not sure if good for me though
+
+https://docs.oracle.com/javase/tutorial/networking/sockets/clientServer.html
+^small oracle guide to sockets that was kinda usful as a starting point
+
+
+
+visual studio block comment shortcut is: ctrl-c + k or other way round i think
